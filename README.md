@@ -30,6 +30,8 @@ In order to use the Mini Driver with S4A you need to perform the following steps
 If all goes well, then S4A should connect to your Mini Driver, and then all you have to remember to
 do is to use the pin mapping shown above.
 
-Video of a Mini Driver powered robot being controlled by S4A should hopefully appear below
+Video of a Mini Driver powered robot being controlled by S4A can be seen by clicking on the image below
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f8AbbodSh6A" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=f8AbbodSh6A
+" target="_blank"><img src="http://img.youtube.com/vi/f8AbbodSh6A/0.jpg" 
+alt="Dagu Mini Driver working with S4A" width="560" height="315" border="10" /></a>
